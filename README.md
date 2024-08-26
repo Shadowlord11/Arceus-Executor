@@ -16,17 +16,37 @@
 > * [x] Add money income announcement
 > * [x] Sound effects for 'red' announcements
 > * [x] Improving enemy GUI (Health bar, Type info)
-> * [ ] Fix tower sell price
-> * [ ] Fix tower attacking instantly after upgrade
+> * [x] Fix enemy health bar position
 > * [x] Fix wrong owner displaying
 > * [x] Fix tower attack animation and the projectile
+> * [x] Make the projectiles faster
 > * [x] Change tower limit system
 > * [x] Add hitbox around a tower, animated circle
-> * [ ] Add different AOE type towers with decal
-> * [ ] Create lobby
-> * [ ] Create inventory system in Lobby
-> * [ ] Create summoning system
-> * [ ] Create story mode system
-> * [ ] Make the enemies
-> * [ ] Make working reward system
+> * [x] Make working damage counter
+> * [x] Add tower's damage and kill counter
+> * [x] Add number formating
+> * [x] Fix tower sell price
+> * [x] Fix tower attacking instantly after upgrade
+> * [x] Make a starting cash bonus for people that joined the group
+> * [x] Create lobby
+> * [x] Add gui in lobby
+> * [ ] Add inventory system in lobby
+> * [ ] Add summoning system
+> * [ ] Code the settings button in lobby
+> * [ ] Add story mode system
+> * [ ] Add infinity mode system
+> * [ ] Create more maps
+> * [ ] Make working reward system after game
+> * [ ] Add a scrap shop in lobby
 > * [ ] Code Next, Retry and Exit buttons on the EndScreen
+> * [ ] Create enemies models
+> * [ ] Create more towers
+> * [ ] Add damage indicator
+> * [ ] Add different AOE type attack mechanics with decal
+> * [ ] Add different DOT type attack mechanics (Bleed, Freeze, Stun, Slow)
+> * [ ] Add lobby rewards system (aka Battlepass)
+> * [ ] Add lobby level system
+> * [ ] Add quests system
+> * [ ] Add batallion mechanics
+> * [ ] Add evolve system 
+> * [ ] Add some Gamepasses
