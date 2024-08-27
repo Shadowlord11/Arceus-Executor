@@ -1,7 +1,7 @@
 # CWTD
 *Simple roblox Tower Defense game*
 
-### Stages:
+### to do list:
 > * [x] Enemy movement
 > * [x] Wave system
 > * [x] Different enemy types
