@@ -30,7 +30,8 @@
 > * [x] Make a starting cash bonus for people that joined the group
 > * [x] Create lobby
 > * [x] Add gui in lobby
-> * [ ] Add inventory system in lobby
+> * [x] Add unit inventory system in lobby
+> * [ ] Add item inventory system in lobby
 > * [ ] Add summoning system
 > * [ ] Code the settings button in lobby
 > * [ ] Add story mode system
